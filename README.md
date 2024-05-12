@@ -37,8 +37,6 @@ The Contact section provides information for users to get in touch with Li-ning,
 - JavaScript
 - Font Awesome icons
 
-## Contributors
 
-- [Amantur Akylbekov](link to your GitHub profile) - Developer
 
 
